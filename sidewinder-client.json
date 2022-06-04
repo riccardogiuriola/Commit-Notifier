@@ -1,0 +1,400 @@
+[
+  {
+    "sha": "15f6b31812b87e5f1588213e8da88e1475d3ee30",
+    "node_id": "C_kwDOGyw14toAKDE1ZjZiMzE4MTJiODdlNWYxNTg4MjEzZThkYTg4ZTE0NzVkM2VlMzA",
+    "commit": {
+      "author": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-22T21:48:16Z"
+      },
+      "committer": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-22T21:48:16Z"
+      },
+      "message": "feature: tabs, tables, cards\n - tabs for employees\n - table for employees\n - card for filters",
+      "tree": {
+        "sha": "c35a1cd1ef5571cb880ee072a2d74a75367378fd",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/trees/c35a1cd1ef5571cb880ee072a2d74a75367378fd"
+      },
+      "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/commits/15f6b31812b87e5f1588213e8da88e1475d3ee30",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/15f6b31812b87e5f1588213e8da88e1475d3ee30",
+    "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/15f6b31812b87e5f1588213e8da88e1475d3ee30",
+    "comments_url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/15f6b31812b87e5f1588213e8da88e1475d3ee30/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "4b685ba8553470fccfac0af88192a1400fdc78d2",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/4b685ba8553470fccfac0af88192a1400fdc78d2",
+        "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/4b685ba8553470fccfac0af88192a1400fdc78d2"
+      }
+    ]
+  },
+  {
+    "sha": "4b685ba8553470fccfac0af88192a1400fdc78d2",
+    "node_id": "C_kwDOGyw14toAKDRiNjg1YmE4NTUzNDcwZmNjZmFjMGFmODgxOTJhMTQwMGZkYzc4ZDI",
+    "commit": {
+      "author": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-15T20:49:30Z"
+      },
+      "committer": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-15T20:49:30Z"
+      },
+      "message": "fix: navbar css",
+      "tree": {
+        "sha": "a00ce49fd827e0e28ee44407179bc4f755c4d9bb",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/trees/a00ce49fd827e0e28ee44407179bc4f755c4d9bb"
+      },
+      "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/commits/4b685ba8553470fccfac0af88192a1400fdc78d2",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/4b685ba8553470fccfac0af88192a1400fdc78d2",
+    "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/4b685ba8553470fccfac0af88192a1400fdc78d2",
+    "comments_url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/4b685ba8553470fccfac0af88192a1400fdc78d2/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "4797cd014caf54bcf585e61d33925f821144d83c",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/4797cd014caf54bcf585e61d33925f821144d83c",
+        "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/4797cd014caf54bcf585e61d33925f821144d83c"
+      }
+    ]
+  },
+  {
+    "sha": "4797cd014caf54bcf585e61d33925f821144d83c",
+    "node_id": "C_kwDOGyw14toAKDQ3OTdjZDAxNGNhZjU0YmNmNTg1ZTYxZDMzOTI1ZjgyMTE0NGQ4M2M",
+    "commit": {
+      "author": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-15T20:48:27Z"
+      },
+      "committer": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-15T20:48:27Z"
+      },
+      "message": "feature: hero, card, notification-card",
+      "tree": {
+        "sha": "1be17bcb165780b1dd5ac2cf184d33f89f5d29e5",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/trees/1be17bcb165780b1dd5ac2cf184d33f89f5d29e5"
+      },
+      "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/commits/4797cd014caf54bcf585e61d33925f821144d83c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/4797cd014caf54bcf585e61d33925f821144d83c",
+    "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/4797cd014caf54bcf585e61d33925f821144d83c",
+    "comments_url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/4797cd014caf54bcf585e61d33925f821144d83c/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "38cd9627a935a21c5ed7905d6fd84a3e93539fc5",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/38cd9627a935a21c5ed7905d6fd84a3e93539fc5",
+        "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/38cd9627a935a21c5ed7905d6fd84a3e93539fc5"
+      }
+    ]
+  },
+  {
+    "sha": "38cd9627a935a21c5ed7905d6fd84a3e93539fc5",
+    "node_id": "C_kwDOGyw14toAKDM4Y2Q5NjI3YTkzNWEyMWM1ZWQ3OTA1ZDZmZDg0YTNlOTM1MzlmYzU",
+    "commit": {
+      "author": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-15T20:47:04Z"
+      },
+      "committer": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-15T20:47:04Z"
+      },
+      "message": "feature: navbar, notification-card, sidebar\n- created navbar component\n- created hidden notification-card component\n- fixed sidebar height to auto to match inside items",
+      "tree": {
+        "sha": "6bccf0fa6188d9c6cc78195a1f2c639456ea2e3a",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/trees/6bccf0fa6188d9c6cc78195a1f2c639456ea2e3a"
+      },
+      "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/commits/38cd9627a935a21c5ed7905d6fd84a3e93539fc5",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/38cd9627a935a21c5ed7905d6fd84a3e93539fc5",
+    "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/38cd9627a935a21c5ed7905d6fd84a3e93539fc5",
+    "comments_url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/38cd9627a935a21c5ed7905d6fd84a3e93539fc5/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "8c79716709672a4011e21642724cc46f6ac12ca8",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/8c79716709672a4011e21642724cc46f6ac12ca8",
+        "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/8c79716709672a4011e21642724cc46f6ac12ca8"
+      }
+    ]
+  },
+  {
+    "sha": "8c79716709672a4011e21642724cc46f6ac12ca8",
+    "node_id": "C_kwDOGyw14toAKDhjNzk3MTY3MDk2NzJhNDAxMWUyMTY0MjcyNGNjNDZmNmFjMTJjYTg",
+    "commit": {
+      "author": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-13T17:15:42Z"
+      },
+      "committer": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-13T17:15:42Z"
+      },
+      "message": "update: settings file",
+      "tree": {
+        "sha": "cd462ece89754b7fae4b982a592e3e6ff24461d9",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/trees/cd462ece89754b7fae4b982a592e3e6ff24461d9"
+      },
+      "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/commits/8c79716709672a4011e21642724cc46f6ac12ca8",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/8c79716709672a4011e21642724cc46f6ac12ca8",
+    "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/8c79716709672a4011e21642724cc46f6ac12ca8",
+    "comments_url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/8c79716709672a4011e21642724cc46f6ac12ca8/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "7e0b5099bc6580d9bc2f2578c4495c1a6d487d2b",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/7e0b5099bc6580d9bc2f2578c4495c1a6d487d2b",
+        "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/7e0b5099bc6580d9bc2f2578c4495c1a6d487d2b"
+      }
+    ]
+  },
+  {
+    "sha": "7e0b5099bc6580d9bc2f2578c4495c1a6d487d2b",
+    "node_id": "C_kwDOGyw14toAKDdlMGI1MDk5YmM2NTgwZDliYzJmMjU3OGM0NDk1YzFhNmQ0ODdkMmI",
+    "commit": {
+      "author": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-08T16:49:01Z"
+      },
+      "committer": {
+        "name": "riccardo.giuriola",
+        "email": "riccardo.giuriola@sinetinformatica.it",
+        "date": "2022-02-08T16:49:01Z"
+      },
+      "message": "feature: navigation\n- Added mobile navigation\n- Fixed Desktop sidebar\n- Dynamic sidebar elements\n- Logout button on both components",
+      "tree": {
+        "sha": "fcc856fb2157ca12fdd92d35e2bb2b54e65fb659",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/trees/fcc856fb2157ca12fdd92d35e2bb2b54e65fb659"
+      },
+      "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/commits/7e0b5099bc6580d9bc2f2578c4495c1a6d487d2b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/7e0b5099bc6580d9bc2f2578c4495c1a6d487d2b",
+    "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/7e0b5099bc6580d9bc2f2578c4495c1a6d487d2b",
+    "comments_url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/7e0b5099bc6580d9bc2f2578c4495c1a6d487d2b/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "6a242d452d66e4c239e7f4e1f8b846cf149d5076",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/6a242d452d66e4c239e7f4e1f8b846cf149d5076",
+        "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/6a242d452d66e4c239e7f4e1f8b846cf149d5076"
+      }
+    ]
+  },
+  {
+    "sha": "6a242d452d66e4c239e7f4e1f8b846cf149d5076",
+    "node_id": "C_kwDOGyw14toAKDZhMjQyZDQ1MmQ2NmU0YzIzOWU3ZjRlMWY4Yjg0NmNmMTQ5ZDUwNzY",
+    "commit": {
+      "author": {
+        "name": "riccardogiuriola",
+        "email": "98822586+riccardogiuriola@users.noreply.github.com",
+        "date": "2022-02-06T22:05:52Z"
+      },
+      "committer": {
+        "name": "riccardogiuriola",
+        "email": "98822586+riccardogiuriola@users.noreply.github.com",
+        "date": "2022-02-06T22:05:52Z"
+      },
+      "message": "change: new routing class\n\nchanged HashRouter with BrowserRouter",
+      "tree": {
+        "sha": "09074148eecc8c0ad34762651ca40d6707ca7e4a",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/trees/09074148eecc8c0ad34762651ca40d6707ca7e4a"
+      },
+      "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/commits/6a242d452d66e4c239e7f4e1f8b846cf149d5076",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/6a242d452d66e4c239e7f4e1f8b846cf149d5076",
+    "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/6a242d452d66e4c239e7f4e1f8b846cf149d5076",
+    "comments_url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/6a242d452d66e4c239e7f4e1f8b846cf149d5076/comments",
+    "author": {
+      "login": "riccardogiuriola",
+      "id": 98822586,
+      "node_id": "U_kgDOBePpug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98822586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/riccardogiuriola",
+      "html_url": "https://github.com/riccardogiuriola",
+      "followers_url": "https://api.github.com/users/riccardogiuriola/followers",
+      "following_url": "https://api.github.com/users/riccardogiuriola/following{/other_user}",
+      "gists_url": "https://api.github.com/users/riccardogiuriola/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/riccardogiuriola/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/riccardogiuriola/subscriptions",
+      "organizations_url": "https://api.github.com/users/riccardogiuriola/orgs",
+      "repos_url": "https://api.github.com/users/riccardogiuriola/repos",
+      "events_url": "https://api.github.com/users/riccardogiuriola/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/riccardogiuriola/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "riccardogiuriola",
+      "id": 98822586,
+      "node_id": "U_kgDOBePpug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98822586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/riccardogiuriola",
+      "html_url": "https://github.com/riccardogiuriola",
+      "followers_url": "https://api.github.com/users/riccardogiuriola/followers",
+      "following_url": "https://api.github.com/users/riccardogiuriola/following{/other_user}",
+      "gists_url": "https://api.github.com/users/riccardogiuriola/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/riccardogiuriola/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/riccardogiuriola/subscriptions",
+      "organizations_url": "https://api.github.com/users/riccardogiuriola/orgs",
+      "repos_url": "https://api.github.com/users/riccardogiuriola/repos",
+      "events_url": "https://api.github.com/users/riccardogiuriola/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/riccardogiuriola/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "19a4d226f41d13b77d4d69789e78a0f359c8afe1",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/19a4d226f41d13b77d4d69789e78a0f359c8afe1",
+        "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/19a4d226f41d13b77d4d69789e78a0f359c8afe1"
+      }
+    ]
+  },
+  {
+    "sha": "19a4d226f41d13b77d4d69789e78a0f359c8afe1",
+    "node_id": "C_kwDOGyw14toAKDE5YTRkMjI2ZjQxZDEzYjc3ZDRkNjk3ODllNzhhMGYzNTljOGFmZTE",
+    "commit": {
+      "author": {
+        "name": "riccardogiuriola",
+        "email": "98822586+riccardogiuriola@users.noreply.github.com",
+        "date": "2022-02-06T21:16:51Z"
+      },
+      "committer": {
+        "name": "riccardogiuriola",
+        "email": "98822586+riccardogiuriola@users.noreply.github.com",
+        "date": "2022-02-06T21:16:51Z"
+      },
+      "message": "first commit\n\nBase theme started",
+      "tree": {
+        "sha": "248ccb5518b35cf3ac9cce0f41f694722b6cf0d9",
+        "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/trees/248ccb5518b35cf3ac9cce0f41f694722b6cf0d9"
+      },
+      "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/git/commits/19a4d226f41d13b77d4d69789e78a0f359c8afe1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/19a4d226f41d13b77d4d69789e78a0f359c8afe1",
+    "html_url": "https://github.com/riccardogiuriola/sidewinder-client/commit/19a4d226f41d13b77d4d69789e78a0f359c8afe1",
+    "comments_url": "https://api.github.com/repos/riccardogiuriola/sidewinder-client/commits/19a4d226f41d13b77d4d69789e78a0f359c8afe1/comments",
+    "author": {
+      "login": "riccardogiuriola",
+      "id": 98822586,
+      "node_id": "U_kgDOBePpug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98822586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/riccardogiuriola",
+      "html_url": "https://github.com/riccardogiuriola",
+      "followers_url": "https://api.github.com/users/riccardogiuriola/followers",
+      "following_url": "https://api.github.com/users/riccardogiuriola/following{/other_user}",
+      "gists_url": "https://api.github.com/users/riccardogiuriola/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/riccardogiuriola/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/riccardogiuriola/subscriptions",
+      "organizations_url": "https://api.github.com/users/riccardogiuriola/orgs",
+      "repos_url": "https://api.github.com/users/riccardogiuriola/repos",
+      "events_url": "https://api.github.com/users/riccardogiuriola/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/riccardogiuriola/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "riccardogiuriola",
+      "id": 98822586,
+      "node_id": "U_kgDOBePpug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98822586?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/riccardogiuriola",
+      "html_url": "https://github.com/riccardogiuriola",
+      "followers_url": "https://api.github.com/users/riccardogiuriola/followers",
+      "following_url": "https://api.github.com/users/riccardogiuriola/following{/other_user}",
+      "gists_url": "https://api.github.com/users/riccardogiuriola/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/riccardogiuriola/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/riccardogiuriola/subscriptions",
+      "organizations_url": "https://api.github.com/users/riccardogiuriola/orgs",
+      "repos_url": "https://api.github.com/users/riccardogiuriola/repos",
+      "events_url": "https://api.github.com/users/riccardogiuriola/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/riccardogiuriola/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": []
+  }
+]
